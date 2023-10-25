@@ -73,7 +73,7 @@ footer {
   bottom: 0;
 }
 .footer-p {
-  font-size: 1rem;
+  font-size: 1.3rem;
   color: white;
 }
 @media (max-width: 480px) {
