@@ -1,2 +1,3 @@
 # Stop-Watch
-Basic stopwatch using HTML,CSS,JS,Jquery
+[Click Here](https://sachin-singh-dangi.github.io/Stop-Watch/) for Live Demo 👨‍💻
+
